@@ -1,5 +1,5 @@
 # cybersecurity_operations_fundamentals
----
+
 ### 1. Foundations of Cybersecurity
 - Recognize core skills and knowledge needed to become a cybersecurity analyst
 - Identify how security attacks impact business operations
